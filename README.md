@@ -1,3 +1,52 @@
+# Learnify
+
+Learnify is a flexible and comprehensive learning platform designed to serve both students and educators by bridging online and offline education. It offers seamless course enrollment, progress tracking, media management, and integrated payment processing to create a smooth, engaging learning experience.
+
+## Key Features
+
+1. **Course Browsing & Filtering**  
+   Browse an extensive catalog of courses with filters by category, price, and more.
+
+2. **Stripe Integration for Payments**  
+   Secure, seamless payment processing allowing students to purchase courses easily.
+
+3. **Chapter Progress & Completion Tracking**  
+   Students can mark chapters as completed/uncompleted, with automatic progress tracking.
+
+4. **Student Dashboard**  
+   Personalized dashboard displaying enrolled courses, progress, and achievements.
+
+5. **Teacher Mode**  
+   Enables instructors to create, manage, and edit courses effortlessly.
+
+6. **Media Management**  
+   Upload thumbnails, attachments, and video content for courses.
+
+7. **Admin & Analytics Dashboard**  
+   Admin panel with analytics to track user activity and manage content and users.
+
+8. **Course Creation & Chapter Management**  
+   Instructors can create courses, add and reorder chapters using drag-and-drop, and use a rich text editor for descriptions.
+
+---
+
+## Tools and Technologies
+
+- **Frontend:**  
+  Built with Next.js for a responsive, server-side rendered UI, styled with Tailwind CSS.
+
+- **Backend:**  
+  Developed using Node.js and Express.js to build a scalable and efficient API.
+
+- **Database:**  
+  PostgreSQL is used for reliable and robust data management.
+
+- **Payments:**  
+  Stripe integration for secure and smooth payment processing.
+
+---
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
